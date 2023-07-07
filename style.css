@@ -47,6 +47,8 @@ body * {
 #profile img {
   width: 112px;
   margin: auto;
+  border-radius: 50%;
+  border: 3px solid var(--surface-color) ;
 }
 #profile p {
   font-weight: 500;
